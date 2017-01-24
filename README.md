@@ -8,7 +8,7 @@ Crosswalk Project for iOS is a sub-project of [Crosswalk](https://crosswalk-proj
 
 * Extended WKWebView
 
-  Crosswalk Project for iOS is built on top of `WKWebView`, the mordern WebKit framework debuted in iOS 8. We extend the WKWebView to build Crosswalk extension framework within. For the detailed information you may refer to [Embedding Mode & WKWebView](https://github.com/crosswalk-project/crosswalk-ios/wiki/Embedding-Mode-&-Native-APIs).
+  Crosswalk Project for iOS is built on top of `WKWebView`, the modern WebKit framework debuted in iOS 8. We extend the WKWebView to build Crosswalk extension framework within. For the detailed information you may refer to [Embedding Mode & WKWebView](https://github.com/crosswalk-project/crosswalk-ios/wiki/Embedding-Mode-&-Native-APIs).
 
 * Crosswalk Extension Framework
 
